@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://violationsiq-beta.sliceo.co/sitemap.xml
