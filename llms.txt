@@ -1,0 +1,18 @@
+# Violations IQ
+
+> Violations IQ is an AI-assisted, human-reviewed service that converts HOA governing documents into standardized violation catalogs prepared for CINC.
+
+## Primary page
+
+- https://violationsiq-beta.sliceo.co/ — Product overview, workflow, common questions, and closed-beta access request.
+
+## Product summary
+
+- Intended for community association management teams using CINC.
+- Processes HOA CC&Rs, bylaws, and fine schedules.
+- Links proposed catalog entries to source evidence.
+- Requires human review and approval before delivery to CINC.
+
+## Publisher
+
+- Sliceo: https://www.sliceo.co/
